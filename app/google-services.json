@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "515629166536",
+    "project_id": "messages-app-65623",
+    "storage_bucket": "messages-app-65623.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515629166536:android:75c03bd4b1ae6447cd5afd",
+        "android_client_info": {
+          "package_name": "com.misiontic.messageapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515629166536-1hh5v3clheh90etmqm7b7hl4amr3pjk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.misiontic.messageapp",
+            "certificate_hash": "82ec019b659e24ba2b0c7f7894bd54dc8947d80b"
+          }
+        },
+        {
+          "client_id": "515629166536-13e9id4sjti6413a8c3rtv1cbp7iu7e2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgwGtyDw72b_pNrsntxop0n29cOGBF3lI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515629166536-13e9id4sjti6413a8c3rtv1cbp7iu7e2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
